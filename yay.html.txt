@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yay!</title>
+    <style>
+        body {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #ffccd5;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 60px;
+            color: #ff2e63;
+        }
+    </style>
+</head>
+<body>
+    <h1>Yay 💕</h1>
+</body>
+</html>
